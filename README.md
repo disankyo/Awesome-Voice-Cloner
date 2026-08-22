@@ -50,34 +50,34 @@ This repository tracks the rapidly evolving **AI voice cloning ecosystem**. We f
 
 ### Core Platforms (Instant Personal Voice Cloning)
 
-| Name | First Accelerator | Pricing / Free Tier | Key Features |
-| :--- | :--- | :--- | :--- |
-| **[ElevenLabs](https://elevenlabs.io/)** | None | Free (10k credits/mo) \| Starts $5/mo | 🏆 Industry leader. Instant & PVC, emotional control, 29+ languages. |
-| **[Play.ht](https://play.ht/)** | **YC** (W23) | Free (5k words/mo) \| Starts $19/mo | ⚡ Fast, high-quality cloning. Real-time TTS & powerful API. |
-| **[Resemble.ai](https://www.resemble.ai/)** | **YC** (W19) | Pay-as-you-go ($0.0005/sec) | 🛡️ Real-time cloning + speech-to-speech. Strong ethical safeguards. |
-| **[Cartesia](https://cartesia.ai/)** | **YC** (S25) | Free (10k credits/mo) \| Starts $5/mo | 🏎️ Ultra-low-latency (sub-40ms). Perfect for AI voice agents. |
-| **[Fish Audio](https://fish.audio/)** | None | Free (8k credits/mo) \| Starts $5.50/mo | 🎭 Emotional & multilingual. High-fidelity and budget-friendly. |
-| **[Uplift AI](https://uplift.ai/)** | **YC** (S25) | Early Access | 🌍 Foundational models for regional languages (Urdu, Bengali, Greek). |
+| Name | First Accelerator | Company Size (Valuation / Revenue) | Pricing / Free Tier | Key Features |
+| :--- | :--- | :--- | :--- | :--- |
+| **[ElevenLabs](https://elevenlabs.io/)** | None | **$11B+ Val** (~$600M ARR) | Free (10k credits/mo) \| Starts $5/mo | 🏆 Industry leader. Instant & PVC, emotional control, 29+ languages. |
+| **[Cartesia](https://cartesia.ai/)** | **YC** (S25) | **$100M Raised** (~$17M ARR) | Free (10k credits/mo) \| Starts $5/mo | 🏎️ Ultra-low-latency (sub-40ms). Perfect for AI voice agents. |
+| **[Fish Audio](https://fish.audio/)** | None | **$52M Raised** (~$21M ARR) | Free (8k credits/mo) \| Starts $5.50/mo | 🎭 Emotional & multilingual. High-fidelity and budget-friendly. |
+| **[Resemble.ai](https://www.resemble.ai/)** | **YC** (W19) | **$25M Raised** | Pay-as-you-go ($0.0005/sec) | 🛡️ Real-time cloning + speech-to-speech. Strong ethical safeguards. |
+| **[Play.ht](https://play.ht/)** | **YC** (W23) | **Acquired by Meta** ($21M Raised) | Free (5k words/mo) \| Starts $19/mo | ⚡ Fast, high-quality cloning. Real-time TTS & powerful API. |
+| **[Uplift AI](https://uplift.ai/)** | **YC** (S25) | **$3.5M Raised** (Seed) | Early Access | 🌍 Foundational models for regional languages (Urdu, Bengali, Greek). |
 
 ### Voice-First Agents & Interactive Clones (New 2026)
 
-| Name | First Accelerator | Pricing / Free Tier | Focus Area |
-| :--- | :--- | :--- | :--- |
-| **[DotBridge](https://dotbridge.ai/)** | **YC** (S25) | Contact Sales | 🎥 Interactive video clones for two-way sales & onboarding calls. |
-| **[Pickle](https://pickle.ai/)** | **YC** (W25) | Free Trial \| Starts $29/mo | 👥 Real-time digital twins for Zoom, TikTok, and Twitch streamers. |
-| **[Bolna AI](https://bolna.ai/)** | **YC** (S25) | Contact Sales | 🇮🇳 Enterprise voice orchestration specifically for the Indian market. |
-| **[Leaping AI](https://leaping.ai/)** | **YC** (W25) | Usage-based | ☎️ Human-like voice agents for automating contact centers. |
-| **[Codyco](https://codyco.ai/)** | **YC** (S25) | Starts $99/hotel | 🏨 Specialized hospitality agents for hotel bookings and support. |
+| Name | First Accelerator | Company Size (Valuation / Revenue) | Pricing / Free Tier | Focus Area |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Bolna AI](https://bolna.ai/)** | **YC** (S25) | **$6.3M Raised** (~$700k ARR) | Contact Sales | 🇮🇳 Enterprise voice orchestration specifically for the Indian market. |
+| **[Leaping AI](https://leaping.ai/)** | **YC** (W25) | **$4.7M Raised** (Seed) | Usage-based | ☎️ Human-like voice agents for automating contact centers. |
+| **[Pickle](https://pickle.ai/)** | **YC** (W25) | **$4.35M Raised** (Seed) | Free Trial \| Starts $29/mo | 👥 Real-time digital twins for Zoom, TikTok, and Twitch streamers. |
+| **[Codyco](https://codyco.ai/)** | **YC** (S25) | **$500K Raised** (Pre-Seed) | Starts $99/hotel | 🏨 Specialized hospitality agents for hotel bookings and support. |
+| **[DotBridge](https://dotbridge.ai/)** | **YC** (S25) | **$500K Raised** (Pre-Seed) | Contact Sales | 🎥 Interactive video clones for two-way sales & onboarding calls. |
 
 ### Advanced & Specialized Cloning Tools
 
-| Name | First Accelerator | Pricing / Free Tier | Focus Area |
-| :--- | :--- | :--- | :--- |
-| **[Descript Overdub](https://www.descript.com/overdub)** | None | Free (1hr transcription/mo) \| Starts $12/mo | 🎬 Seamless podcast/video editing. Replace your own words via text. |
-| **[Murf.ai](https://murf.ai/)** | **Antler** (India) | Free (10 mins total) \| Starts $19/mo | 🎙️ Studio-quality cloning with emotional range. Ideal for narration. |
-| **[LOVO.ai](https://lovo.ai/)** | **500 Global** | Free (20 mins trial) \| Starts $24/mo | 📺 Marketing & explainer videos. Strong multilingual templates. |
-| **[Typecast](https://typecast.ai/)** | **500 Global** | Free (5 mins download/mo) \| Starts $8.99/mo | 👤 Instant cloning with very short samples & friendly UI. |
-| **[Hessian](https://hessian.ai/)** | **YC** (S25) | Contact for Demo | 📈 Operations automation; narrating business workflows with clones. |
+| Name | First Accelerator | Company Size (Valuation / Revenue) | Pricing / Free Tier | Focus Area |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Descript Overdub](https://www.descript.com/overdub)** | None | **$550M Val** (~$100M ARR) | Free (1hr transcription/mo) \| Starts $12/mo | 🎬 Seamless podcast/video editing. Replace your own words via text. |
+| **[LOVO.ai](https://lovo.ai/)** | **500 Global** | **$40M Peak Val** ($6.7M Raised) | Free (20 mins trial) \| Starts $24/mo | 📺 Marketing & explainer videos. Strong multilingual templates. |
+| **[Typecast](https://typecast.ai/)** | **500 Global** | **$34.5M Raised** (~$6.8M ARR) | Free (5 mins download/mo) \| Starts $8.99/mo | 👤 Instant cloning with very short samples & friendly UI. |
+| **[Murf.ai](https://murf.ai/)** | **Antler** (India) | **$11.5M Raised** (~$20M ARR) | Free (10 mins total) \| Starts $19/mo | 🎙️ Studio-quality cloning with emotional range. Ideal for narration. |
+| **[Hessian](https://hessian.ai/)** | **YC** (S25) | **$500K Raised** (Seed) | Contact for Demo | 📈 Operations automation; narrating business workflows with clones. |
 
 ---
 
